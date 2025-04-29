@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vardanaloyan
 - 👀 I’m interested in software/cloud engineering
-- 🌱 I’m currently learning some database stacks
 - 📫 You can reach me via email: valoyan2@gmail.com
 
 <!---
