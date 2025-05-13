@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @vardanaloyan
+- 👷 Currently working at [Swisscom](https://www.swisscom.ch/)
 - 👀 I’m interested in software/cloud engineering
 - 📫 You can reach me via email: valoyan2@gmail.com
 
